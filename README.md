@@ -1,2 +1,6 @@
-# code
- a simple code in c ++
+#include"iostream";
+using namespace std;
+void main()
+{
+cout<<"hello world"<<endl;
+}
